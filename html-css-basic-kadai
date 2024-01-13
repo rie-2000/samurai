@@ -25,6 +25,7 @@
 </section>
 </article>
  <section>
+    <article>
                 <h3>私のおすすめ和菓子アンケートフォーム</h3>
             <form>
                 <label>氏名</label>
@@ -56,7 +57,7 @@
  <h3>SAMURAIが新しい動画をリリース</h3>
  <p>SAMURAI公式YouTubeで新しい動画がリリースされました。動画の内容はHTML/CSSの解説です。</p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/2JLiGSUohEo?si=YR_0-FAGsjvON-0-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</section>
+</section></article>
         </main>
 
     <footer><p>&copy; SAMURAIニュース</p>
